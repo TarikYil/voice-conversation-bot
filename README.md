@@ -186,4 +186,4 @@ If you encounter any issues:
 
 ---
 
-**Made with ❤️ for the open source community**
+
